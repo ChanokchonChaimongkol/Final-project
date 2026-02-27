@@ -1,0 +1,55 @@
+========== RECEIPT ==========
+User: H
+Food: Fried Rice
+Price: 50.0
+Cook Time: 10 minutes
+Total Paid: 50.0
+Current Points: 50
+=============================
+=================================
+========== RECEIPT ==========
+========= ORDER LIST =========
+Fried Rice x 3 = 150.0
+Tom Yum x 2 = 160.0
+===============================
+
+Total: 310.0
+Cook Time: 50 minutes
+Current Points: 310
+=============================
+=================================
+========== RECEIPT ==========
+========= ORDER LIST =========
+Fried Rice x 3 = 150.0
+Grilled Chicken x 1 = 90.0
+===============================
+
+Total After Discount: 240.0
+Cook Time: 40 minutes
+Earned Points (5%): 12
+Current Points: 12
+=============================
+=================================
+========== RECEIPT ==========
+========= ORDER LIST =========
+Steak x 1 = 150.0
+===============================
+
+Total After Discount: 138.0
+Cook Time: 10 minutes
+Earned Points (5%): 6
+Current Points: 6
+=============================
+=================================
+========== RECEIPT ==========
+========= ORDER LIST =========
+Fried Rice x 2 = 100.0
+Tom Yum x 2 = 160.0
+===============================
+
+Total After Discount: 254.0
+Cook Time: 40 minutes
+Earned Points (5%): 12
+Current Points: 12
+=============================
+=================================

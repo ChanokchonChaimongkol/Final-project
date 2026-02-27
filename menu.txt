@@ -1,0 +1,12 @@
+1,Fried Rice,50.0,10
+2,Pad Thai,60.0,10
+3,Tom Yum,80.0,10
+4,Green Curry,70.0,10
+5,Som Tam,40.0,10
+6,Grilled Chicken,90.0,10
+7,Burger,85.0,10
+8,Pizza,120.0,10
+9,Spaghetti,100.0,10
+10,Steak,150.0,10
+11,Ice Cream,35.0,10
+12,Coffee,45.0,10
